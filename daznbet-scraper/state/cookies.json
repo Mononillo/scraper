@@ -1,0 +1,164 @@
+[
+ {
+  "name": "Bb-Session-Id",
+  "value": "586f710e077fb21e7d01fe64c0cfe74c",
+  "domain": "sb-pp-esfe.daznbet.es",
+  "path": "/betbasket",
+  "expires": 1792539469.165641,
+  "httpOnly": true,
+  "secure": true
+ },
+ {
+  "name": "ci_session",
+  "value": "29a6906a2cf633b86e35beaadfdafc85",
+  "domain": "service.daznbet.es",
+  "path": "/",
+  "expires": 1792538868.08586,
+  "httpOnly": true,
+  "secure": true
+ },
+ {
+  "name": "NEXT_LOCALE",
+  "value": "es",
+  "domain": "sb-pp-esfe.daznbet.es",
+  "path": "/",
+  "expires": -1,
+  "httpOnly": true,
+  "secure": true
+ },
+ {
+  "name": "MUID",
+  "value": "27D5F414EDC6624E0055E3ECECE86303",
+  "domain": ".bing.com",
+  "path": "/",
+  "expires": 1826233624.613726,
+  "httpOnly": false,
+  "secure": true
+ },
+ {
+  "name": "AWSALBAPP-1",
+  "value": "_remove_",
+  "domain": "sb-pp-esfe.daznbet.es",
+  "path": "/",
+  "expires": 1793142468.165937,
+  "httpOnly": false,
+  "secure": true
+ },
+ {
+  "name": "AWSALBAPP-2",
+  "value": "_remove_",
+  "domain": "sb-pp-esfe.daznbet.es",
+  "path": "/",
+  "expires": 1793142468.166026,
+  "httpOnly": false,
+  "secure": true
+ },
+ {
+  "name": "AWSALBAPP-3",
+  "value": "_remove_",
+  "domain": "sb-pp-esfe.daznbet.es",
+  "path": "/",
+  "expires": 1793142468.16608,
+  "httpOnly": false,
+  "secure": true
+ },
+ {
+  "name": "IDE",
+  "value": "AHWqTUmoxMSSOpM3jSqUQedQRbhFq0b5rmW0O-kIxELGhKDVHn0Q-h_oyzNyFoWyeSo",
+  "domain": ".doubleclick.net",
+  "path": "/",
+  "expires": 1826233628.751964,
+  "httpOnly": true,
+  "secure": true
+ },
+ {
+  "name": "AWSALBAPP-0",
+  "value": "AAAAAAAAAADn96yh7rjQh87lOcS5nKIpwpAPOMUmUGmXqmaNtjmS51h1MATgqEix+pOL/lktG9/5hIWQnYp5aiI8qrHbG5YzlB9IchQ+kCilj8enIgKiICtBarFOhjYHOqy+XJTrGC2UAYc=",
+  "domain": "sb-pp-esfe.daznbet.es",
+  "path": "/",
+  "expires": 1793142468.165795,
+  "httpOnly": false,
+  "secure": true
+ },
+ {
+  "name": "_gcl_au",
+  "value": "1.1.197406283.1792536061",
+  "domain": ".daznbet.es",
+  "path": "/",
+  "expires": 1800312061,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "first_time_visitor",
+  "value": "false",
+  "domain": "sb-pp-esfe.daznbet.es",
+  "path": "/",
+  "expires": -1,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "_ga",
+  "value": "GA1.1.304207093.1792536062",
+  "domain": ".daznbet.es",
+  "path": "/",
+  "expires": 1827097669.559581,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "_ga_8DXRFE8302",
+  "value": "GS2.1.s1792536061$o1$g1$t1792537669$j28$l0$h0",
+  "domain": ".daznbet.es",
+  "path": "/",
+  "expires": 1827097669.684048,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "__cflb",
+  "value": "04dToQnCzoKcnRnRKEbyWrZvwWPy2guB8WU4nBMjv5",
+  "domain": "privacyportal-uk.onetrust.com",
+  "path": "/",
+  "expires": -1,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "OptanonConsent",
+  "value": "isGpcEnabled=0&datestamp=Wed+Oct+21+2026+01%3A07%3A50+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202303.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a1877f90-7039-4b11-892f-3f8d9069b221&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0004%3A0&AwaitingReconsent=false",
+  "domain": ".www.daznbet.es",
+  "path": "/",
+  "expires": 1824073670,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "exactag_new_gk",
+  "value": "b9203b71b84f4f7caee7bf21c026f916%7C19.12.2026%2022%3A41%3A29",
+  "domain": "exactag.daznbet.es",
+  "path": "/",
+  "expires": -1,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "et_gk",
+  "value": "b9203b71b84f4f7caee7bf21c026f916%7C19.12.2026%2022%3A41%3A29",
+  "domain": ".daznbet.es",
+  "path": "/",
+  "expires": 1800313669,
+  "httpOnly": false,
+  "secure": false
+ },
+ {
+  "name": "aws-waf-token",
+  "value": "7e3be0f5-44fa-4811-8784-ac417b2ab264:CgoAif5p+OXRLQAA:xdnmJ/9Oi6UwGVMNuA7NN3eZMii5Vdnxct8oYEPhSbQ9cZloA7qxTuzNJZXtL0K5Na7vy48hdV/hBnOYnpkY8KPrA4jGSzfFXcXmimeYIRp0hpCbHRI0CV204ws85Rkdr3+4RALcy78/bN7hXTYjWDJa1sCCDvlHergiJYtNl15ulWxEc2hCT4MkJcIgkyaZahB82SeuXCHvAkXFQbu/qR0zJ5SI5XfbkQ510yD6HTWfiaZi9Wlo2Z98UgTxfRixFaRlC6pp/SsHsnwPI4K+RZwoxoHV+xtZzcFd0DiDAh9ZNOxU4ytF9fbW4Nj7G6vtJYorLa6Uu8QrrmL9SXA/JH1ZrcUKdtcxZwx5",
+  "domain": ".www.daznbet.es",
+  "path": "/",
+  "expires": 1792883280,
+  "httpOnly": false,
+  "secure": true
+ }
+]

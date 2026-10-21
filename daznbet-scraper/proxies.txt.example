@@ -1,8 +1,0 @@
-# Un proxy por linea. Sticky residential recomendado (misma IP 15-30 min).
-# Formatos admitidos:
-#   http://user:pass@host:port
-#   socks5://user:pass@host:port
-#   http://host:port
-#
-# Muchos proveedores usan el usuario para fijar la sesion sticky, p.ej.:
-#   http://usuario-session-abc123:pass@gate.proveedor.com:8000

@@ -1,0 +1,114 @@
+[
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/inplay-config/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"inPlayConfig\":{\"AFB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ALPS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ARCH\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ATHL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"AUSR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BAD\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BBSL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BHBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BKB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BKB3x3\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BKB4x4\":{\"numberOfCompetitions\":4,\"numberOfEvents\":10},\"BNDY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BOX\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BSB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BTHL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BTNS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BWLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CCNTRY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CHS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CNOG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CRC\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CRLG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CYC\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"DAR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"DOTA2\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"DVNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ECS2\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ENTMT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"F1\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FBLSL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FGSKT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FHKY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FLBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FNCG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FSL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FSNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GHLG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GHR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GMN\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GOLF\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"HBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"HKY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"HR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"JUDO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"KBDI\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"KRT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"LCRS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"LOL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"LUGE\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"MMA\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"MTRCR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"MTSPRT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"NBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"PAD\":{\"numberOfCompetitions\":1,\"numberOfEvents\":1},\"PDTNS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"PLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"POOL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"PSPLO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"R6\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"RGB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":10},\"RGBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"RGBU\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"RWNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SFNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SHTNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SKJNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SLNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SNK\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SPLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SPTK\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SQSH\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SUMO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SWIM\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TBT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TKWD\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TNS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TTLN\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TVSPLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"VALO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"VLB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTHR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTLTNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTPL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTSPRT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"bVLB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"eBKB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"eFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"horse-racing\":{\"numberOfCompetitions\":4,\"numberOfEvents\":10}}}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/In-Play-Events/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"competitions\":{\"AFB\":{\"BG-1172\":[],\"BG-1195\":[],\"BG-1212\":[],\"BG-1228\":[\"BG-103607\",\"BG-103613\",\"BG-103817\"],\"competitionOrder\":[\"BG-1228\",\"BG-1172\",\"BG-1212\",\"BG-1195\"]},\"BAD\":{\"U-6703\":[],\"U-6710\":[],\"U-6712\":[],\"U-6713\":[],\"competitionOrder\":[\"U-6703\",\"U-6712\",\"U-6713\",\"U-6710\"]},\"BKB\":{\"BG-1012\":[],\"BG-26152\":[],\"BG-3888\":[],\"BG-4269\":[],\"BG-4377\":[\"BG-111129\",\"BG-111151\"],\"BG-5450\":[],\"BG-5462\":[],\"BG-5521\":[],\"BG-7299\":[],\"BG-7506\":[],\"U-1938\":[],\"U-2125\":[],\"U-2196\":[],\"U-2548\":[],\"U-2549\":[],\"U-2710\":[],\"U-4397\":[],\"U-7192\":[],\"competitionOrder\":[\"U-1938\",\"U-4397\",\"BG-7506\",\"U-2125\",\"BG-3888\",\"BG-26152\",\"U-2548\",\"U-2710\",\"BG-7299\",\"BG-4269\",\"BG-5462\",\"BG-5450\",\"U-2549\",\"U-2196\",\"BG-4377\",\"BG-5521\",\"U-7192\",\"BG-1012\"]},\"BSB\":{\"U-1806\":[\"U-114490\"],\"U-1836\":[],\"U-1840\":[],\"U-1900\":[],\"U-3908\":[],\"competitionOrder\":[\"U-1836\",\"U-3908\",\"U-1900\",\"U-1806\",\"U-1840\"]},\"FBL\":{\"BG-1173\":[],\"BG-1193\":[],\"BG-1222\":[],\"BG-1236\":[],\"BG-1381\":[],\"BG-1436\":[],\"BG-1525\":[],\"U-1933\":[],\"U-1966\":[],\"U-1977\":[],\"U-1984\":[],\"U-2004\":[],\"U-2037\":[],\"U-2068\":[],\"U-2098\":[],\"U-2173\":[],\"U-2183\":[],\"U-2849\":[],\"U-3008\":[],\"U-6802\":[],\"competitionOrder\":[\"U-6802\",\"U-2173\",\"U-1977\",\"U-2098\",\"U-2004\",\"U-2068\",\"U-3008\",\"U-2183\",\"BG-1222\",\"BG-1436\",\"U-2037\",\"U-1933\",\"BG-1381\",\"BG-1173\",\"U-1966\",\"BG-1193\",\"BG-1525\",\"U-1984\",\"BG-1236\",\"U-2849\"]},\"FSL\":{\"BG-26824\":[],\"BG-2863\":[],\"competitionOrder\":[\"BG-2863\",\"BG-26824\"]},\"GOLF\":{\"U-15266\":[\"U-1520229\",\"U-1520228\"],\"U-16516\":[],\"U-2448\":[],\"competitionOrder\":[\"U-16516\",\"U-15266\",\"U-2448\"]},\"HBL\":{\"U-1871\":[],\"U-2101\":[],\"U-2367\":[],\"U-2511\":[],\"U-2529\":[],\"U-2544\":[],\"U-2806\":[],\"U-4439\":[],\"U-5169\":[],\"U-5230\":[],\"competitionOrder\":[\"U-5230\",\"U-2529\",\"U-5169\",\"U-2367\",\"U-4439\",\"U-2544\",\"U-1871\",\"U-2101\",\"U-2511\",\"U-2806\"]},\"HKY\":{\"BG-1284\":[],\"U-15475\":[],\"U-17786\":[],\"U-2209\":[\"U-54258\",\"U-24319\",\"U-24320\"],\"U-2531\":[],\"U-2534\":[],\"U-2555\":[],\"U-2556\":[],\"U-2848\":[],\"competitionOrder\":[\"U-2209\",\"U-2531\",\"U-2534\",\"U-15475\",\"U-17786\",\"U-2556\",\"U-2555\",\"BG-1284\",\"U-2848\"]},\"MTRCR\":{\"U-2515\":[\"U-26807\"],\"competitionOrder\":[\"U-2515\"]},\"PAD\":{\"U-32751\":[],\"competitionOrder\":[\"U-32751\"]},\"TNS\":{\"U-12514\":[],\"U-12515\":[],\"U-13118\":[],\"U-13120\":[],\"U-25029\":[],\"U-25030\":[],\"U-3184\":[],\"U-3186\":[],\"U-3291\":[],\"U-3369\":[],\"U-3920\":[],\"U-3923\":[],\"U-4041\":[],\"U-4106\":[],\"U-9722\":[],\"U-9723\":[],\"competitionOrder\":[\"U-9722\",\"U-25029\",\"U-13118\",\"U-3291\",\"U-3920\",\"U-9723\",\"U-25030\",\"U-13120\",\"U-3369\",\"U-3923\",\"U-4041\",\"U-12514\",\"U-3184\",\"U-4106\",\"U-3186\",\"U-12515\"]},\"VLB\":{\"BG-1610\":[],\"BG-19898\":[],\"BG-4009\":[],\"BG-4010\":[],\"BG-4387\":[],\"BG-4424\":[],\"BG-5965\":[],\"competitionOrder\":[\"BG-19898\",\"BG-4009\",\"BG-4010\",\"BG-5965\",\"BG-1610\",\"BG-4387\",\"BG-4424\"]}}}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/bettype-blurbs/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"betTypeDetails\":{}}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/bog-overlay-display/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"bogOverlay\":{}}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/configurable-icons/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"IconsDetails\":{\"DAZN_STREAMING_LIVE_ICON\":\"08a9b4882177f5313b0336601de0ede9\",\"HR_ALL_TAB\":\"2bea6dd9b70407800f45e65650147649\",\"HR_ALL_TAB_ACTIVE\":\"d9a69121f84b88e5e6ef41027773ab0c\",\"LIVE_ICON\":\"8151a4bf7563259f0dd44c5dde91a041\"}}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/hreflangs/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"response\":[]}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/Sports-Widget-Provider-Mapping/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"sportProviderConfig\":{\"LMT\":[{\"name\":\"BetRadar\",\"status\":true,\"supportedSports\":[\"BKB\",\"TNS\",\"BAD\",\"TBT\",\"SNK\",\"HKY\",\"HBL\",\"DAR\",\"CRC\",\"BSB\",\"FBL\"]},{\"name\":\"BetGenius\",\"status\":true,\"supportedSports\":[\"BKB\",\"FBL\",\"TNS\",\"AFB\",\"VLB\",\"HKY\",\"FSL\",\"TBT\",\"CRC\"]},{\"name\":\"Perform\",\"status\":false}],\"Match_Preview\":[{\"name\":\"BetGenius\",\"status\":true,\"supportedSports\":[\"BKB\",\"FBL\",\"TNS\",\"AFB\",\"VLB\",\"HKY\",\"FSL\",\"CRC\"]},{\"name\":\"BetRadar\",\"status\":true,\"supportedSports\":[\"BAD\",\"TNS\",\"BKB\",\"TBT\",\"SNK\",\"HKY\",\"HBL\",\"DAR\",\"CRC\",\"BSB\",\"FBL\"]},{\"name\":\"Perform\",\"status\":false}],\"Match_Stats\":[{\"name\":\"BetGenius\",\"status\":false},{\"name\":\"BetRadar\",\"status\":false},{\"name\":\"Perform\",\"status\":false}]}}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/inplay-config/",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"inPlayConfig\":{\"AFB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ALPS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ARCH\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ATHL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"AUSR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BAD\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BBSL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BHBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BKB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BKB3x3\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BKB4x4\":{\"numberOfCompetitions\":4,\"numberOfEvents\":10},\"BNDY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BOX\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BSB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BTHL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BTNS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"BWLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CCNTRY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CHS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CNOG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CRC\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CRLG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"CYC\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"DAR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"DOTA2\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"DVNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ECS2\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"ENTMT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"F1\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FBLSL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FGSKT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FHKY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FLBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FNCG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FSL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"FSNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GHLG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GHR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GMN\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"GOLF\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"HBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"HKY\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"HR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"JUDO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"KBDI\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"KRT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"LCRS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"LOL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"LUGE\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"MMA\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"MTRCR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"MTSPRT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"NBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"PAD\":{\"numberOfCompetitions\":1,\"numberOfEvents\":1},\"PDTNS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"PLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"POOL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"PSPLO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"R6\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"RGB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":10},\"RGBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"RGBU\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"RWNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SFNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SHTNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SKJNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SLNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SNK\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SPLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SPTK\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SQSH\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SUMO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"SWIM\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TBT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TKWD\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TNS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TTLN\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"TVSPLS\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"VALO\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"VLB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTHR\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTLTNG\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTPL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"WTSPRT\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"bVLB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"eBKB\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"eFBL\":{\"numberOfCompetitions\":4,\"numberOfEvents\":6},\"horse-racing\":{\"numberOfCompetitions\":4,\"numberOfEvents\":10}}}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/info?t=1792583339682",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"websocket\":true,\"cookie_needed\":false,\"origins\":[\"*:*\"],\"entropy\":955684579}\n"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/info?t=1792583339682",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"websocket\":true,\"cookie_needed\":false,\"origins\":[\"*:*\"],\"entropy\":1751174597}\n"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/info?t=1792583339682",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"websocket\":true,\"cookie_needed\":false,\"origins\":[\"*:*\"],\"entropy\":144457243}\n"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/info?t=1792583339682",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"websocket\":true,\"cookie_needed\":false,\"origins\":[\"*:*\"],\"entropy\":1258816453}\n"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-escms.daznbet.es/api/vtl/meta-data/en-directo",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"seoUrl\":[{\"canonical\":null,\"description\":\"Apuestas Deportivas y Casino en Línea. Disfruta de Fútbol, Baloncesto, Tenis y los mejores slots y ruletas de este año.\",\"title\":\"Apuestas Deportivas y Casino Online | DAZN Bet\"}]}"
+ },
+ {
+  "method": "POST",
+  "url": "https://sb-pp-esfe.daznbet.es/betbasket/",
+  "status": 201,
+  "request_body": "{\"Id\":\"e4c1eef5838c715eb9156b1fbb5bece1\",\"currency\":\"EUR\",\"partnerID\":\"daznbetes\"}",
+  "response_preview": "{\"id\":\"e4c1eef5838c715eb9156b1fbb5bece1\",\"playerId\":\"\",\"brandId\":\"daznbetes\",\"expiryTime\":\"2026-10-21 12:18:59 +0000 GMT\",\"singles\":null,\"forecastsWidget\":{},\"inMultiples\":null,\"interrelationsV2\":null,\"restrictedPairs\":null,\"currency\":\"EUR\",\"partnerID\":\"daznbetes\",\"stake\":\"0\",\"potReturn\":\"0\",\"boostedWinnings\":\"0\",\"totalTaxedPotReturn\":\"0\",\"userTotalTaxAmount\":\"0\",\"userTaxRate\":\"0\",\"updatedAt\":\"2026-10-21T11:48:59.944475655Z\",\"status\":\"OPEN\",\"podID\":\"91161d2a-64b8-4e70-a06b-1f07c16bda8a\",\"betSlipVersion\":\"\",\"totalLegs\":0,\"eventToMultiMarketDataMap\":null,\"totalLegsLimit\":20}"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/info?t=1792583340308",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"websocket\":true,\"cookie_needed\":false,\"origins\":[\"*:*\"],\"entropy\":1712428437}\n"
+ },
+ {
+  "method": "GET",
+  "url": "https://sb-pp-esfe.daznbet.es/eventracinglivedocl1/livedoc/info?t=1792583340333",
+  "status": 200,
+  "request_body": "",
+  "response_preview": "{\"websocket\":true,\"cookie_needed\":false,\"origins\":[\"*:*\"],\"entropy\":1715832133}\n"
+ }
+]

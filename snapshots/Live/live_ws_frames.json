@@ -1,0 +1,740 @@
+[
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583339.9520702,
+  "data": "o"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583339.9520702,
+  "data": "[\"CONNECT\\naccept-version:1.1,1.0\\nheart-beat:10000,10000\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583339.9748497,
+  "data": "a[\"CONNECTED\\nversion:1.1\\nheart-beat:0,0\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583339.9748497,
+  "data": "[\"SUBSCRIBE\\nsendEmpty:true\\nid:sub-0\\ndestination:markets/socketConnection\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583339.9860053,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.0034256,
+  "data": "a[\"MESSAGE\\ndestination:markets/socketConnection\\nsubscription:sub-0\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:1\\n\\n{}\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.1293273,
+  "data": "o"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.1293273,
+  "data": "[\"CONNECT\\naccept-version:1.1,1.0\\nheart-beat:10000,10000\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.1448905,
+  "data": "a[\"CONNECTED\\nversion:1.1\\nheart-beat:0,0\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.1448905,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.1448905,
+  "data": "[\"SUBSCRIBE\\nsendEmpty:true\\nid:sub-0\\ndestination:topbets/socketConnection\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.1993215,
+  "data": "a[\"MESSAGE\\ndestination:topbets/socketConnection\\nsubscription:sub-0\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:1\\n\\n{}\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/739/ajhwbqje/websocket",
+  "t": 1792583340.2120402,
+  "data": "o"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/739/ajhwbqje/websocket",
+  "t": 1792583340.2120402,
+  "data": "[\"CONNECT\\naccept-version:1.1,1.0\\nheart-beat:10000,10000\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/739/ajhwbqje/websocket",
+  "t": 1792583340.2179477,
+  "data": "a[\"CONNECTED\\nversion:1.1\\nheart-beat:0,0\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/739/ajhwbqje/websocket",
+  "t": 1792583340.2179477,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/739/ajhwbqje/websocket",
+  "t": 1792583340.2184634,
+  "data": "[\"SUBSCRIBE\\nsendEmpty:true\\nid:sub-0\\ndestination:eventmap/socketConnection\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/739/ajhwbqje/websocket",
+  "t": 1792583340.2371647,
+  "data": "a[\"MESSAGE\\ndestination:eventmap/socketConnection\\nsubscription:sub-0\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:1\\n\\n{}\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.239707,
+  "data": "o"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.2417002,
+  "data": "[\"CONNECT\\naccept-version:1.1,1.0\\nheart-beat:10000,10000\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.3180156,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\ncontent-type:application/octet-stream\\nid:sub-1\\ndestination:/user/betbasket/e4c1eef5838c715eb9156b1fbb5bece1\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventmaplivedocl1/livedoc/739/ajhwbqje/websocket",
+  "t": 1792583340.3210409,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3230362,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.3240397,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.325044,
+  "data": "[\"SUBSCRIBE\\nX-mincnt:1\\nX-size:10\\ncontext:TOPBETS_RIGHT_NAVBAR\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-2\\ndestination:topbets/brand|period\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3332438,
+  "data": "a[\"CONNECTED\\nversion:1.1\\nheart-beat:0,0\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3342402,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3342402,
+  "data": "[\"SUBSCRIBE\\nsendEmpty:true\\nid:sub-0\\ndestination:events/socketConnection\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3352456,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\nid:sub-1\\ndestination:eventcounts/sport\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.3352456,
+  "data": "a[\"MESSAGE\\ndestination:topbets/brand|period\\nsubscription:sub-2\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:2\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"U-429607453|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436792\\\",\\\"marketId\\\":\\\"U-429607453\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":5},\\\"U-429607688|YES\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436792\\\",\\\"marketId\\\":\\\"U-429607688\\\",\\\"selectionId\\\":\\\"YES\\\",\\\"sortOrder\\\":9},\\\"U-429608839|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436769\\\",\\\"marketId\\\":\\\"U-429608839\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":2},\\\"U-429608862|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436791\\\",\\\"marketId\\\":\\\"U-429608862\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":8},\\\"U-429608932|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436768\\\",\\\"marketId\\\":\\\"U-429608932\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":6},\\\"U-429608964|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436812\\\",\\\"marketId\\\":\\\"U-429608964\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":4},\\\"U-429608988|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436803\\\",\\\"marketId\\\":\\\"U-429608988\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":0},\\\"U-429609091|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436771\\\",\\\"marketId\\\":\\\"U-429609091\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":1},\\\"U-429609381|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436789\\\",\\\"marketId\\\":\\\"U-429609381\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":3},\\\"U-429609394|W2-1\\\":{\\\"sportId\\\":\\\"FBL\\\",\\\"competitionId\\\":\\\"U-2173\\\",\\\"eventId\\\":\\\"U-5436779\\\",\\\"marketId\\\":\\\"U-429609394\\\",\\\"selectionId\\\":\\\"W2-1\\\",\\\"sortOrder\\\":7}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/userlivedocl1/livedoc/173/i3a0xzbn/websocket",
+  "t": 1792583340.3362436,
+  "data": "a[\"MESSAGE\\ndestination:/user/betbasket/e4c1eef5838c715eb9156b1fbb5bece1\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:3\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"e4c1eef5838c715eb9156b1fbb5bece1\\\",\\\"playerId\\\":\\\"\\\",\\\"brandId\\\":\\\"daznbetes\\\",\\\"singles\\\":null,\\\"forecastsWidget\\\":{},\\\"currency\\\":\\\"EUR\\\",\\\"stake\\\":\\\"0\\\",\\\"potReturn\\\":\\\"0\\\",\\\"boostedWinnings\\\":\\\"0\\\",\\\"totalTaxedPotReturn\\\":\\\"0\\\",\\\"userTotalTaxAmount\\\":\\\"0\\\",\\\"userTaxRate\\\":\\\"0\\\",\\\"updatedAt\\\":\\\"2026-10-21T11:48:59.944475655Z\\\",\\\"status\\\":\\\"OPEN\\\",\\\"totalLegsLimit\\\":20}}]\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3382442,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-2\\ndestination:events/U-5436803\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3382442,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-1\\ndestination:markets/U-429608988\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.339639,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-3\\ndestination:events/U-5436771\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.339639,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-2\\ndestination:markets/U-429609091\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.339639,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-4\\ndestination:events/U-5436769\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.339639,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-3\\ndestination:markets/U-429608839\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.339639,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-5\\ndestination:events/U-5436789\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3406491,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-4\\ndestination:markets/U-429609381\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3406491,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-6\\ndestination:events/U-5436812\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3406491,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-5\\ndestination:markets/U-429608964\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3406491,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-7\\ndestination:events/U-5436792\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3406491,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-6\\ndestination:markets/U-429607453\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3416605,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-8\\ndestination:events/U-5436768\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3416605,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-7\\ndestination:markets/U-429608932\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3416605,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-9\\ndestination:events/U-5436779\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3416605,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-8\\ndestination:markets/U-429609394\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3416605,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-10\\ndestination:events/U-5436791\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3426569,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-9\\ndestination:markets/U-429608862\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3426569,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-10\\ndestination:markets/U-429607688\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3735085,
+  "data": "a[\"MESSAGE\\ndestination:events/socketConnection\\nsubscription:sub-0\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:1\\n\\n{}\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3780234,
+  "data": "a[\"MESSAGE\\ndestination:eventcounts/sport\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:2\\n\\nH4sIAAAAAAAC/5SVT2+bQBDFv8uc98D+xXDDTkkl4yABiRpVPaAGJZbSgiySS7TfvdqmjWaZJWsfsayf3pt58/b7G4wT5NA/PACDqZ+fIAdg8No/vwyQv8E8zv0z5CJLEvb+UR1fB8h5+v/7dvo5/jr+foRcSC7+/Vi/zKfj49MMueIbBtNwaqfxNDtiUW4R2GQelkLNhiC5ZbAtrhAlFR7FUIohlMRR9liLSJXvUQUsZgQk/uqpvyGS5hFXH39Y6GmxHu2rIRDKkJbBrtkhhvSVpNTRCuUeU7iSEUMJ3ZJynKuiwROWMUt028pR6q4QWI/xOJJyZHC+X3at8FLtYTbnDMdhSo4nHJmMCOa33FbYD898KVJTS4nRBJVljtViloroUUFL13VV4rMUF+/bCMvgq2drYyKUNKWOHGV/7y071hFc03VzYxkcDsV6agKccEscumb3SYrPGY5wt9CYC2ITDnBz7ecmtmzaVvqdcosTo2NaaPC4U9Pe7NfF8DPEuNvuth3uPB2rYBW+ye6mxdNdnPZHhNBdKhPoLMvgrqhq/LZEXIUzc1fhJpex3pMiSBkWD5Qf4MDztILx22bRNbRqslBHWGt//AkAAP//i8TN+C8IAAA=\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.380039,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436803\\nsubscription:sub-2\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:3\\n\\nH4sIAAAAAAAC/4xVXW+jOhD9K9G8lmwxgQR4y1c30W1JRbyqtFV05YVp41swXGP6tcp/v7KhLaG51VZ9yZnjOcczw/j2NxQlhMDSFCwomdpDCGDBI8tqhPA38BRC+DH03NHYt0dgQVUWUq01ejG7BAuSIi9RccULsW64DploomA5QggxsmxwxVLJ08HjIJ4NLpGXr/xep9oXUkUt7Wo6eKwGscmZ4h2rs/fQFxkUU3UFIWwuLpbxcgEWKMlS3L7hNJ4uprPLpbmcVDzhJROqgvD29v1uwdj1g5OGW5CuF01VeoaPk1Jk+YIppqvWgbc8RQjJ4WB9CI5cm3QEuzf6fz1TmT/Vcw6H3c6CnAs+L+qyEJWmkRXd0NiB8BZ+DF0nGJPRJPDAev/lkzHsLJjR7RHH8zS6mH+Ath8EtgGj2RHqBwaNjzUMuCJ0Q23P8box3wk6+ifdrMjNOjozp49OEqd38oPr3KyjL7i+b7hOw+3l1VHDHdnEsUfuxHDnRxS3MTY/W81JP9DRcUlD63EMejXtWtSV89/gs5t1tLzWwXj7l/YRuGPiGcm+16YJdEPP6IaSfqhjZRy0ROK5Rw2YTPxuyd2gd8rqi+miRd0Babx3eI1VzTuy+4n3kY9uaHcs+kzt6oPZHeBTOT/d+mYd9Sfad2F3sICJ5rNRmOrvo1JMKsrN9+bYznhI7KFDKAlC2w5t+ydYgCJtCKLOMp0hUTXLeod17DP1FyrFxf1JITsYEpvaoxNCp50cLJBY1ZnS6ZJaShRqmxQSIbzdWW/INUpepO97PNrQLZ3G1CzKFKtE8lIvbh0qBis2WAuesLQASz8IZqfru+lVxKsm1wUXvNrrct2xrMKDBQKfWx2z//WTkBXJgxGt5kUtVFo8iZavE8W1EKYOLZLyqszYy7w51YLtBSC09UXvUKJIsC2IbdtkaP6pqUZTkIMF6qXU8aspna90CZ8VSsEy46uSYc5Usg8nLhl7wUTPyR1iY3q2NA9FDBbkTD6gaoxD6AS2BaUsSpSKo1miyGT2cs1eNrWCEJSsUTejUhJZ3rY3Za/iF6oUm163kWsmlUAJISymP6O/t+vv0fVmS9fRd90N9iq2/F6URfU2JG/2l48omheXKC9nL3vnPk8STtQ/o/tMus/e44Nr+onlJRcPEMJeqbIKz8+fnp6+6cTfkiI/T3G4WJ7vixzPv8zzb80yfscT1k7GhUQcTJMEqwoO+m/3XwAAAP//NdnEeDUIAAA=\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3860567,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429608988\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:2\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429608988\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436803\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-96489\\\",\\\"name\\\":\\\"Real Madrid\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":11,\\\"down\\\":50,\\\"dec\\\":\\\"1.22\\\",\\\"american\\\":\\\"-455\\\",\\\"hongkong\\\":\\\"0.22\\\",\\\"malay\\\":\\\"0.22\\\",\\\"indonesian\\\":\\\"-4.55\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":25,\\\"down\\\":4,\\\"dec\\\":\\\"7.25\\\",\\\"american\\\":\\\"625\\\",\\\"hongkong\\\":\\\"6.25\\\",\\\"malay\\\":\\\"-0.16\\\",\\\"indonesian\\\":\\\"6.25\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-93401\\\",\\\"name\\\":\\\"RB Leipzig\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":17,\\\"down\\\":2,\\\"dec\\\":\\\"9.5\\\",\\\"american\\\":\\\"850\\\",\\\"hongkong\\\":\\\"8.5\\\",\\\"malay\\\":\\\"-0.118\\\",\\\"indonesian\\\":\\\"8.5\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3860567,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436771\\nsubscription:sub-3\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:4\\n\\nH4sIAAAAAAAC/4xV7W6jOBR9FXT/lkxtAqTwL83HJNqWVIFRpamilQduJ94SmzUmbWeUh9ln2RdbGUgLmXQ1Vf/k3ONzzz029sNPkAWEwLIMbCiY3kIIYMOe5RVC+BN4BiF8GXju0B+NKNhQFlLppUHn1zdgQyp3BWquuRTLhuvQ0RBsEGyHEMJSaFRWhtYtz//9R1h7az6x4i172mqmrKkUqMsno7uVSkftmiix9qUVL8ZgQ4aPrMrfSrXcLc+ZkB9raaarEkJYzeez9WwKNmjFMoyPeLIeT8fXN7N6ZqV5ygsmdAnhw8PbyHRIvCv3w0HaQrKcNomd+O8rJ8h2U6aZSbQDxzxDCOnhYL939VwyJO9dzw/4Yecmst/t7BwOm40NOy74RFaFFKWh0UWyStYOhA/wZeA6gU9dn16B3fkVwMaG6yTuc1yDTifvIAlI4NRgdN1HhzW67q73At+AC5qsEuI5Xl/b7/U/42ZB75fRRb26rzo6WfnOde6X0cdcz224TsM91XWvetx6oMWkRxm14MViQk8LnbVXpKH1OQ16O+5aNMnRI3xxv4xmd6a4jv8YuEMSuD5x6gxPvPoubdGLZJXQ01J3jKAlUs/1+pZ70YzcbqjnNExoUfeANN47vIAceT27p7zWfMvrHotfFEduh9k9wOc0zzk+OdHeMIDNwQYmms9GY2a+j1IzpRNef28OcfwBJQOHJjQICQkJ+Qo2oMgagqjy3CikumL5yWJT+5X6DbXm4vvZRiQYUJKQ4ZlG550cbFBYVrk2cmmlFAodp1IhhA8b+4jcoeIye7vto1USJ+N1Ut+bGZap4oW53k1JWgtmLQVPWSbBNs9GffOb2cxVxMtGa84FL7cmrkeWl3iwQeBL26d+JczDkcv0qW5aTmQldCafRcs3QutKiDqHFsl4WeTsddKsasF2AAiJGfQRFYoU20AIIXRQ/yd1Gk0gBxv0a2Hqt+NksjARvmhUguW1r1KFO6bTbThyqe8FvvnIHxEb09ez+t1Ygw07pp5QN8YhdEa+DYWSBSrNsb5Ekan89Y69rioNIWhVodmMUitku3Z7M/ZDfEOdYbPXbeWOKS1QQQjT8dfoz3j5Obpbxcky+mx2g/0QMf8uClkeD8nR/myPonmX6Xaf+n85GQYUXzLiymrrP7++7Cmp9xOLGy6eIISt1kUZXl4+Pz9/MsKfUrm7zHAwnV1u5Q4v/1fn74rl/JGnrD0Zc4VojdMUyxIO5m/zXwAAAP//35sJ5lsIAAA=\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3860567,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436769\\nsubscription:sub-4\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:5\\n\\nH4sIAAAAAAAC/4xVXW/bPA/9KwFv66yS7HzYd2k+lmBdUiReC6wIXmg20wixZU+S23VD/vsL2U5rp9nwFL3J4dHhIUVTj38gyyEAHsfgQM7NHgIAB555UiAEf0DEEMC3bs9z+4O+Dw7oPFNmYdHZzS04EGVpjkYYkclFxWV04IIDkqcIAYy0yWTnXiQJ7zx37sVByKfO7ItV2mfKLGvW/W3nWXfuFzYQ444XyVvo7wKGm0JDAKvZbLqeTsABo3iMmxMerkeT0c3ttCxNGRGJnEujIXh8fKuMEtqn5KLfGgwXk6opZ4bbqiHydMINt01rwBsRIwT0eHTeM7r+sJmxWdJf81Wd+a/52PG43TqQCinGWZFnUlsanYercM0geIRvXY/5fer2hn1w3n95DLYO3ISbFof5Fp2M30EyHHqkBJc3bZSW6Lp1fjC04JyGq5D0WK8V82gz/yU3c/qwWF6Vp9uuzk++c9nDYvkPLi3rKVlXc3auS/0md1DpjlsU163Aq/mYngcaZ/u0orU5Ffp11LRIhkPXP8FXD4vl9M4G15svXc8lvtfrsbKHZ15d16vRq3AV0vPQuxW3ukJL6nm9No80eS5r/bqgYZu2bA5I5b1RNuufeC2757zafM1rjsVHJmswmwN8SfOS4w8T7cH26ACX1WdjMLbfhzZcmVCU3xsjrN+lpMtoSP2AkICQ7+AAyrgiyCJJrEJkCp6cHbaxj9QfaIyQTxcTEb9LSUjcC4kuOzk6oFAXibFyUaEUSrOJMoUQPG6dE3KHSmTx2xpfrsJNOFqH5aaMUUdK5HZv21DWmfPOQoqIxxk49j0oV7qtza4ioSutmZBC7227djzReHRA4q86T7n+7YuQZNGhTKrHWSFNnL3Imm+F1oWUZR9qJBY6T/jruDpVg3UBEBBb6A4VygjrhhBCaLf8D8tuVA05OmBecxv/OgrHc9vCXwaV5EnpS6sg5SbaBwOP9nt+3875DrEyfTMtX4o1OJBydUBTGYeADakDucpyVEZguUSRq+T1jr+uCgMBGFWgvQxtFPK0vt6Y/5Y/0MRY3XUduePKSFQQwGT0ffm/zeLz8m61CRfLz/Y2+G+5EU8yz/RpSE72p88oqwd3fxAvO5X2PJ/9JHSYIDuonLABPpX3ifmtkAfLMybXwfX1y8vLJyv8KcrS6xi7k+n1Pkvx+p86PwueiJ2IeD0ZM4XYGUURag1H+7f9fwAAAP//2gJ9+TQIAAA=\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3860567,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436789\\nsubscription:sub-5\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:6\\n\\nH4sIAAAAAAAC/4xVXW/iOhD9K2hea7Z2QvjIG58LurtQQVbV3QpdeZOhWA12ruO0ZVf89ys7oU1YurpVXzhzfObMjDN++AUqgxB4kgCBjJs9hAAEnnlaIIS/QCQQwrd20PG7vf4ACOSZ0mZh0dnoCxCI1SFDI4xQclFyPdbzgYDkB4QQ1sjT1giNyFvPrRkeUSqlk9ZaGYM64QcruVfaLCv6aNR6zluz6d9AIMEdL9K30LvSBp9FmuLHioabIocQVrPZdD2dAAGjeYKbMx6th5Ph6MvUFa2NiEXGpckhfHh4q3nQ7fT71wqpsGgxKZt14b+pGSE/TLjhtpk1eCMShJCdTuQtHws6fr/WueulfZi5bNn/zeydTtstgYOQYqyKTMnc0tg8WkVrD8IH+NbueIMuC5jfA1L71YUtgVG0aXAos+hk/A7Sgd/3HLgcNVHq0HXzvAPnLFpFNPCCZv6gkf+Kmzm7Xyxv3Ommaufi5DvXu18sP+bSIHBcr+Re6NponVt6GDcpnRK8mY/ZZaB2tlfWfcEp0a/DukXbOXaGb+4Xy+mdDa43f7U7Ph10un7gTl167Z/Rm2gVsctQzUrZSksKOo0BUL9h2S2BP2rYpi3rF6T0XhsFHZx5DbuXvMp8xatfi9+ZdcX6Bb6mec3x5Y32+7A9EeCy/GwMJvb7yA3XJhLue/Oo120z2vZYxAYhpSGl34EAyqQkyCJNrUJsCp5eHLax36k/0BghH68mooM2oxH1ryS67uREQGNepMbKxYXWKM0mVhohfNiSM3KHWqjkbdEvV9EmGq4jtzETzGMtMrvZbUi15ry1kCLmiQJiXwy39G1tdhWJvNSaCSnyvW3Xjqc5nghIfK3yuAfCvhmpip9c0nysCmkS9SIrvhVaF1K6PlRIIvIs5cdxeaoCqwIgpLbQHWqUMVYNoZSytvuPXDfKhpwImGNm41+H0XhuW/hqUEueOl+5Dg/cxPuw12HdYNDzgMAOsTQ9mroXYw0EDlw/oSmNQ+j1BgQyrTLURqBbosh1erzjx1VhIASjC7TDyI1GfqjGm/Cf8geaBMtZV5E7ro1EDSFMht+X/2wWn5d3q020WH620+A/5UY8ykzl50tytj99Rlk+ySz2d8n+sQjYkR0fX3by1WQ7SZmhbp6YfRHyCULYG5Pl4e3ty8vLJyv8KVaH2wTbk+ntXh3w9o86/xY8FTsR8+pmzDRiaxjHmOdwsn/b/wIAAP//GcUhIlYIAAA=\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3870494,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436812\\nsubscription:sub-6\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:7\\n\\nH4sIAAAAAAAC/4xV3W7iPBB9FTS3DVs7fxTfUaALajcgklWlrdAnNzGL1cTJ2g7Qrnj3T05Cm1B2tVVvOHNm5sxPxk+/IS+AAE0SsKCgegsEwIIdTUsG5DfwBAh873uu499gGyxQRS713KB3tw9gQZxnBdNc81zMa66NBw5YIGjGgEBo+Fz87I2XvV3vYRTe9x64eDORtrnUQcNaLno71RuF92BBwja0TN9Nfw6gqS4VEFjc3U1X0wlYoCVNWHjCo9VoMrp9mFalSc1jXlChFZCnp/fKsOMP3cFFvQ0YzSd1U84Ed6NGjGYTqqlpWgsOecKA4OPRamV0MPI/MrZL+mO+ujP/ms8+HtdrCzIu+Dgvi1woQ8OzaBGtbCBP8L3v2kMfuzcDI+T9l49hbcFtFHY4yDHoZPwBopuh71dgcNtFvQpddXMMDDjD0SJCnu11bJ7Tzn9JzQw/zoOryrvr6Z15fnDtx3nwF65X67Fr7qe4g46GqqDZuEuxa/BqNsbnhpav3fh2OTX6bdSWaDrnnuCrx3kwXRrjKrzvuw4aur7vVV7nWl23Qa+iRYTPTS0p7qAhYs89G8Cww+uM41IM07SgvSC19hYPoROvI/cTrxbf8Npr8ZnptJjtBb4U85Li8412bmB9tICK+rPRLDHfh9JU6ohX35uNbL+PUd/GER4ShAhCP8ACJpKaIMo0NRFiXdL0zNnYPlOfmTZ35WIiNOxjFCHnQqLLSo4WSKbKVJtwcSklEzqMc8mAPK2tE7JkkufJ+xkPFlEYjVZRdSkTpmLJC3O3jSnvzWhvLnhMkxws8x5UJ93UZk4RV3WsOy642pp2bWiq2NECwQ5Nnur8mxchzeOXKqka56XQSb4XDd8EWpVCVH1okISrIqWv49qrAZsCgCBT6IZJJmLWNAQhhPvVf1R1o27I0QL9Whj7t1E0npkWHjSTgqaVLiVJRnW8JQMX+95wYPZkw1gt+nZavRQrsCCj8oXpWjgQe+BbUMi8YFJzVh1RRmX6uqSvi1IDAS1LZoahtGQ0a8ab0DfxzHTC6lk3liWVWjAJBCajH8F/4fxrsFyE0Tz4aqZB30TIf4oiV6clOcmf7pioH1x8k8ZxQYfZwfd/8Wf3kG/2andIHFTNkxUPXLwAga3WhSLX1/v9/osJ/CXOs+uE9SfT622eseu/xvlV0pRveEybzbiTjPVGccyUgqP5W/8fAAD//wxbLTQ0CAAA\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.3870494,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436792\\nsubscription:sub-7\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:8\\n\\nH4sIAAAAAAAC/4xVXW/iOhD9K2hea7ZOgED8xucW3TZUJFWlrdCVNxkW3wYn13basiv++5WT0JL0Q7fqC2fOnDmeccYPfyDLgQFPEiCQc7MDBkDgiacFAvsDIgEGd91Bv+cNfRcI6DxTZmnRxeQaCMTZPkcjjMjksuK6zrAHBCTfIzCY8AMq2bkppIh3nafOWGmUPO0splZslykT1MSbu86T7ozXIRBIcMuL9DX0pYbhptDAYLVYzNfzGRAwiicYnvBoPZ6NJ9fz8oDKiFjkXBoN7OHh9Xx+rzfyPjFdw9FyVvWmZbopGyHfz7jhtndncCgSBOYcj+S1pEMdj/pvNRuH+rRg1Z7/W9A9HjcbAnshxTQr8kxqS3OuolW0doE9wF237/oeHXpDB8jbL28IGwKTKGxwRiOLzqbnYH/glmAwaaJOia6b+QMLXjnRKqIDd9CIecPz+k03I7fKu18GF2V203k7843r3i+DL7i00nUrbluXug2uV3IbZ/f8YQVeXE2dduAs161pTU6F3oybFvuD3gm+uF8G81sbXId/dfs96vcHo0HZw3c9cGv0IlpFTjt0PthRTXQG/eYA/F6LRz7TGJYWbNOC5gWx3s94Pj3xWnZbvMp8zWteixazcl8zmxf4veZHee0b7Y9gcyTAZfXZGEzs96ENVyYS5ffmUtfrOrTrOpHjM0oZpT+AAMqkIsgiTa1CbAqetpJt7D31Jxoj5K8PC1G/69CI9j4o9LGTIwGFukiNlYsLpVCaMM4UAnvYkBNyi0pkyes6D1ZRGI3XUbkrE9SxErnd3zaUda54ZylFzJMMiH0XytVuz2ZXkdCV1kJIoXe2XVueajwSkPhS1ymfAfsypFn8WBbV06yQJsmeZc23QutCyrIPNZIInaf8MK2yarA+ADBqD7pFhTLGuiGUUqdb/kdlN6qGHAmYQ27jN+NoemVb+GJQSZ6WvrRie27iHRv2HW/ge3bpbxEr05N5+VasgcCeq0c0lXFg7ogSyFWWozICyyWKXKWHW35YFQYYGFWgHYY2Cvm+Hm/Cf8ufaBKsZl1HbrkyEhUwmI1/BH+Hy+/B7SqMlsF3Ow3+W4bil8wzfbokJ/vzJ5TVw2u2L9kzd9DXh5w6nr/7J3b508vuIMt5Yn4t5CMw2BmTa3Z5+fz8/M0Kf4uz/WWC3dn8cpft8fJLnX8LnoqtiHl9MxYKsTOOY9QajvZv818AAAD//wz6NEA8CAAA\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3870494,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429608839\\nsubscription:sub-3\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:3\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429608839\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436769\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-101610\\\",\\\"name\\\":\\\"Aston Villa\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":1,\\\"down\\\":4,\\\"dec\\\":\\\"1.25\\\",\\\"american\\\":\\\"-400\\\",\\\"hongkong\\\":\\\"0.25\\\",\\\"malay\\\":\\\"0.25\\\",\\\"indonesian\\\":\\\"-4\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":11,\\\"down\\\":2,\\\"dec\\\":\\\"6.5\\\",\\\"american\\\":\\\"550\\\",\\\"hongkong\\\":\\\"5.5\\\",\\\"malay\\\":\\\"-0.182\\\",\\\"indonesian\\\":\\\"5.5\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-139810\\\",\\\"name\\\":\\\"Viking FK\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":33,\\\"down\\\":4,\\\"dec\\\":\\\"9.25\\\",\\\"american\\\":\\\"825\\\",\\\"hongkong\\\":\\\"8.25\\\",\\\"malay\\\":\\\"-0.122\\\",\\\"indonesian\\\":\\\"8.25\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3870494,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429609091\\nsubscription:sub-2\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:4\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429609091\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436771\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-130584\\\",\\\"name\\\":\\\"Inter de Milán\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":23,\\\"down\\\":100,\\\"dec\\\":\\\"1.23\\\",\\\"american\\\":\\\"-435\\\",\\\"hongkong\\\":\\\"0.23\\\",\\\"malay\\\":\\\"0.23\\\",\\\"indonesian\\\":\\\"-4.35\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":23,\\\"down\\\":4,\\\"dec\\\":\\\"6.75\\\",\\\"american\\\":\\\"575\\\",\\\"hongkong\\\":\\\"5.75\\\",\\\"malay\\\":\\\"-0.174\\\",\\\"indonesian\\\":\\\"5.75\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-154030\\\",\\\"name\\\":\\\"FC Shakhtar Donetsk\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":9,\\\"down\\\":1,\\\"dec\\\":\\\"10\\\",\\\"american\\\":\\\"900\\\",\\\"hongkong\\\":\\\"9\\\",\\\"malay\\\":\\\"-0.112\\\",\\\"indonesian\\\":\\\"9\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3885567,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429609381\\nsubscription:sub-4\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:5\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429609381\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436789\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-96488\\\",\\\"name\\\":\\\"Real Betis\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":31,\\\"down\\\":50,\\\"dec\\\":\\\"1.62\\\",\\\"american\\\":\\\"-162\\\",\\\"hongkong\\\":\\\"0.62\\\",\\\"malay\\\":\\\"0.62\\\",\\\"indonesian\\\":\\\"-1.62\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":7,\\\"down\\\":2,\\\"dec\\\":\\\"4.5\\\",\\\"american\\\":\\\"350\\\",\\\"hongkong\\\":\\\"3.5\\\",\\\"malay\\\":\\\"-0.286\\\",\\\"indonesian\\\":\\\"3.5\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-154383\\\",\\\"name\\\":\\\"Feyenoord Rotterdam\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":7,\\\"down\\\":2,\\\"dec\\\":\\\"4.5\\\",\\\"american\\\":\\\"350\\\",\\\"hongkong\\\":\\\"3.5\\\",\\\"malay\\\":\\\"-0.286\\\",\\\"indonesian\\\":\\\"3.5\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.3895807,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429608964\\nsubscription:sub-5\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:6\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429608964\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436812\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-136947\\\",\\\"name\\\":\\\"Sporting CP\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":7,\\\"down\\\":25,\\\"dec\\\":\\\"1.28\\\",\\\"american\\\":\\\"-358\\\",\\\"hongkong\\\":\\\"0.28\\\",\\\"malay\\\":\\\"0.28\\\",\\\"indonesian\\\":\\\"-3.58\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":21,\\\"down\\\":4,\\\"dec\\\":\\\"6.25\\\",\\\"american\\\":\\\"525\\\",\\\"hongkong\\\":\\\"5.25\\\",\\\"malay\\\":\\\"-0.191\\\",\\\"indonesian\\\":\\\"5.25\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-133106\\\",\\\"name\\\":\\\"LASK Linz\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":31,\\\"down\\\":4,\\\"dec\\\":\\\"8.75\\\",\\\"american\\\":\\\"775\\\",\\\"hongkong\\\":\\\"7.75\\\",\\\"malay\\\":\\\"-0.13\\\",\\\"indonesian\\\":\\\"7.75\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.4091327,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436768\\nsubscription:sub-8\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:9\\n\\nH4sIAAAAAAAC/4xVXW/iOhD9K2heG7Z2SPjIG19d0O1CFVJV2gpduckAboOT2g5duuK/X9kJLaHc1VZ94cyZM2fGzvjxN2Q5BMCSBBzImd5AAODAjqUFQvAbeAIB3Dd9r9XutLvggMozqacGvRncggNxts1Rc80zMS25Lu20wAHBtggBDNPiqTGQxXqNjV0jZDEX64YFR9i4RaGM5iaTelbyB+F9Y6ca4dCIJ7hiRXoM/ZWUZrpQEMD85mYcjkfggJYswcURj8L+qD+4Hdt2peYxz5nQCoLHx49uqdcllFzsoQKj6agc1Jn1umqEbDtimplBnsALniAE9HBwPir23E7X+yx4ubf/LVwO628Lu4fDcunAlgs+zIo8E8rQ6CSaR6ELwSPcNz2316Zeq2Nm8PmrC0sHBtGixmlZdDT8BEm31/IsOBvU0ZZFw3q+pU5oNI+I7/r1+q1a/QtuJvRhOruy2bVM2jvL/OS6D9PZH7g+tVy35J7r+vSU63Usd1hvqBQYXk2G9Dxwkkv9klbnlOiP/qlFMzn3CF89TGfjOxMMF/80vRbpeX7btVlfvLoVehXNI3oeOrHSJhWR+l79APzaAXj1QV3QMEObnV6Q0vsJz6VHXs3uF15pvuKdXosvTK93wjy9wJc0Lzk+u9Fuz4flwQEmys9GY2K+D6WZ1BG335tL3HaTkqZLI9oLCAkI+QkOoEhKgijS1CjEumDpWbKJfaU+odZcrC8WIr0mJRFpXSh02cnBAYmqSLWRiwspUehFnEmE4HHpHJE7lDxLPnb8bB4ton4Y2ZWZoIolz81SN6GsMWGNqeAxSzJwzGNh973pzawirkqtGy642phxrViq8OCAwF9VHfs2mOcizeIXW1QNs0LoJHsTFd8IhYUQdg4VknCVp2w/LLMqsGoAAmIaXaFEEWM1EEIIbdr/yE6jHMjBAb3PTfxHPxpOzAh/aZSCpdaXksGW6XgTdDza9ntts4lXiKXpwdg+GSE4sGXyBXVpHAK3SxzIZZaj1BztEkUm0/0d288LDQFoWaA5DKUlsm11vAl7F0+oEyzPuorcMakFSghg1P85+3cx/T67my+i6ey7OQ32LhZ8LfJMHS/J0f54h6J8jWm8f316fW2T52Kvkmcve/aedt7ufU3seWJ+y8ULBLDROlfB9fXb29s3I/wtzrbXCTZH4+tNtsXrP+q8FizlKx6z6mbcSMRGP45RKTiYv+V/AQAA//++VpxHUQgAAA==\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.41013,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436779\\nsubscription:sub-9\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:10\\n\\nH4sIAAAAAAAC/4xVXU/jOhD9K9W84i52vkr9VtqyVHdJURu0Eqi6MslALVIn13H4WNT/fmUnhaZ0917UF86cOXNm7Izv3qEogYPIMiBQCrMGDkDgWeQ1An8HmQGHm34Y+NFgMAQCVVloM7PoxfkPIJAWmxKNNLJQs4brsYEPBJTYIHAYF5uix4Z00HvuXQmVrrEyqHs3Shq0Nat1oU3ccudXveeqd3UTA4EMH0Sdf4T+S8YIU1fAYX5xMV1MJ0DAaJHhcocni9FkdP5j6trURqayFMpUwO/uPrpkdHjm0yPeWyiZTZrxHJjuaiYoNhNhhB3fHryUGQJn2y3Zq8cij33WO9bYb+s2U/q/db3tdrUisJFKjou6LFRlaewymScLD/gd3PQDbxixgA4jIHv/BbAicJ4sOxx/YNHJ+BOkQ38YOTA+76KhQxed/MipXrJkntDQC7v1g079jpuzsMn7OYtPXHYnM6AHmZ9c7+cs/gN3QB3Xa7iHuoMO1290xx1K2DQ0Prkcs8PAZy6jfkPrcFr0arRv0U4u2MEnP2fx9NoGF8u/+oFPh4EfMhc+9OpFLXqSzBN2GNprw/NaIguD7gH4Zwc88juNwFmwQ4v3L0jjfZ/n7Xgdu194jfmWt38tvjL3Ffcv8DHNY3mHN3rgw2pLQKjms7HfHn+3W0WbRLrvzaNe1Ge077GERTwIOaW3QABV1hBUnedWITW1yA+Sbewr9R6NkerxaCE67DOaUHqk0HEnWwIaqzo3Vi6ttUZllmmhEfjdiuyQa9SyyD4WezxPlslokbh9mWGValnaTW5DRe9S9GZKpiIrgNgXwi1525tdRbJqtC6kktXajutB5BVuCSh8beu4B8G+EXmRPrmi1biolcmKF9XyrdCiVsrNoUUyWZW5eBs3WS3YNgCc2kYfUKNKsR0IpZT13c9OzP1uYbslYN5KtypHyfjSjvDVoFYid74qzTfCpGs+CFgUDkN76x8QG9PnU/deLIDARugnNI1x4N4ZJVDqokRtJLolikLnb9fibV4b4GB0jfYwKqNRbNrjzcQvdY8mw+as28i10EahBg6T0W3893L2Pb6eL5NZ/N2ehvillvJRlUW1uyQ7+9NnVM0TzHzzHBlxz+7rkjG8j7ynl8c3Hb4ad55Y/pDqCTisjSkrfnr68vLyzQp/S4vNaYb9yfR0XWzw9I86/9Qilw8yFe3NuNCIvVGaYlXB1v6t/g0AAP//tOhHgUYIAAA=\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583340.411129,
+  "data": "a[\"MESSAGE\\ndestination:events/U-5436791\\nsubscription:sub-10\\ncontent-type:application/json-patch+json\\nis-compressed:true\\nmessage-id:11\\n\\nH4sIAAAAAAAC/4xVYW+bPBD+K9F9LVkNhCTwLU3SBr0dqRKmSquiVy5cFr8Fw2zTrpvy31/ZkBZYOi3KF5577u658/n88AuKEgKgaQoWlFQdIACw4JlmFULwC1gKAXwZeiN3PPFtsECWhVChRq+vbsGCpMhLVEyxgoc117EnLljAaY4QwC3LMhyst/PB8+CGZlRRSQV9HYRSUf5YZTrkoRAqaujh7eBZDm5mOnaKe1plb6a/iKSoqiQEsL6+Xm6WC7BACZri9oTHm9lidnW7NMUKxRJWUq4kBA8Pb7X6zmQyPVNAA8Xhou5RT3Y3ZIw0X1BFdQ9b8JalCIF9PFpv6WzX98fkPd8HpX2Yum7V36Z2jsfdzoKccTYvqrLgUtPsVbyONw4ED/BlOHL8se0S2wPr/Yv4sLPgKt62OI7vTzS6mL+DZDodjwwYXXVR16CbTg5CNLiy43VMPMfr2vx2/q4ax6n97sPownh3VfU937nOfRh9yHX8qW24Ts3tx53aba5vClrNOxRvXIMXq7ndN7R8vVp/n2PQz7O2RN25N/jiPoyWd9q42f4zHLnEH3nENz3sanUJcRv0Il7Hdt/ULmPcEG1v1DuASWcA+l7tL9Ni3bSoPSC19hZv5J94Hbk93kl8w2uPxZ+Z7QE+x/yt6vsw6k+058HuaAHl9bVRmOr7IRUVKmbmvjnEGQ9tMnTs2B4HIy8g5CtYgDytCbzKMh0hURXNes7a9jv1EZVi/NvZRMQf2iQm5Eyi80qOFgiUVaZ0uKQSArnaJoVACB521gm5Q8GK9G3BR+t4G882sdmYKcpEsFJvdG0qBis6CDlLaFqApV8Ks+x1bXoVMVnHumacyYNu155mEo8WcPzR5DEPg34rsiJ5MknlvKi4SosX3vB1oE3FuelDg6RMlhl9nddeDdgUAAHRhe5RIE+waQghxB6av+6Y+X+F49EC9Vpq++dZPF/pFv5QKDjNjC4pgpyq5BBMRvbYq1fxHrEWfbU0L8YGLMipeEJVC4fAmRILSlGUKBRDs0SRiuz1jr6uKwUBKFGhPgypBNK8Od6U/uSPqFKsz7qx3FGhOAoIYDH7Gv27DW+iu/U2DqMbfRr0J9+yb7ws5GlITvKXz8jrp9jmuTt9cfOnJPPyTCXqv+/u/lGmCTHnieUt408QwEGpUgaXly8vL5904E9JkV+mOFwsLw9Fjpd/jPO9ohnbs4Q2k3EtEAezJEEp4ah/u/8DAAD//9yKlkpOCAAA\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.4121296,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429608932\\nsubscription:sub-7\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:7\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429608932\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436768\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-148010\\\",\\\"name\\\":\\\"Club Brugge\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":87,\\\"down\\\":100,\\\"dec\\\":\\\"1.87\\\",\\\"american\\\":\\\"-115\\\",\\\"hongkong\\\":\\\"0.87\\\",\\\"malay\\\":\\\"0.87\\\",\\\"indonesian\\\":\\\"-1.15\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":16,\\\"down\\\":5,\\\"dec\\\":\\\"4.2\\\",\\\"american\\\":\\\"320\\\",\\\"hongkong\\\":\\\"3.2\\\",\\\"malay\\\":\\\"-0.313\\\",\\\"indonesian\\\":\\\"3.2\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-92784\\\",\\\"name\\\":\\\"Racing Club De Lens\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":5,\\\"down\\\":2,\\\"dec\\\":\\\"3.5\\\",\\\"american\\\":\\\"250\\\",\\\"hongkong\\\":\\\"2.5\\\",\\\"malay\\\":\\\"-0.4\\\",\\\"indonesian\\\":\\\"2.5\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.4121296,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429607453\\nsubscription:sub-6\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:8\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429607453\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436792\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-93386\\\",\\\"name\\\":\\\"Bayern Munich\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":23,\\\"down\\\":20,\\\"dec\\\":\\\"2.15\\\",\\\"american\\\":\\\"115\\\",\\\"hongkong\\\":\\\"1.15\\\",\\\"malay\\\":\\\"-0.87\\\",\\\"indonesian\\\":\\\"1.15\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":11,\\\"down\\\":4,\\\"dec\\\":\\\"3.75\\\",\\\"american\\\":\\\"275\\\",\\\"hongkong\\\":\\\"2.75\\\",\\\"malay\\\":\\\"-0.364\\\",\\\"indonesian\\\":\\\"2.75\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-101609\\\",\\\"name\\\":\\\"Arsenal FC\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":41,\\\"down\\\":20,\\\"dec\\\":\\\"3.05\\\",\\\"american\\\":\\\"205\\\",\\\"hongkong\\\":\\\"2.05\\\",\\\"malay\\\":\\\"-0.488\\\",\\\"indonesian\\\":\\\"2.05\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.4121296,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429609394\\nsubscription:sub-8\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:9\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429609394\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436779\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T16:45:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-109830\\\",\\\"name\\\":\\\"Como\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":27,\\\"down\\\":20,\\\"dec\\\":\\\"2.35\\\",\\\"american\\\":\\\"135\\\",\\\"hongkong\\\":\\\"1.35\\\",\\\"malay\\\":\\\"-0.741\\\",\\\"indonesian\\\":\\\"1.35\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":11,\\\"down\\\":4,\\\"dec\\\":\\\"3.75\\\",\\\"american\\\":\\\"275\\\",\\\"hongkong\\\":\\\"2.75\\\",\\\"malay\\\":\\\"-0.364\\\",\\\"indonesian\\\":\\\"2.75\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-101621\\\",\\\"name\\\":\\\"Manchester United\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":7,\\\"down\\\":4,\\\"dec\\\":\\\"2.75\\\",\\\"american\\\":\\\"175\\\",\\\"hongkong\\\":\\\"1.75\\\",\\\"malay\\\":\\\"-0.572\\\",\\\"indonesian\\\":\\\"1.75\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T16:45:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.4121296,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429607688\\nsubscription:sub-10\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:10\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429607688\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436792\\\",\\\"name\\\":\\\"Ambos Equipos Marcarán\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T19:00:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WHOSCORES2-G-12\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"YES\\\",\\\"name\\\":\\\"Si\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":1,\\\"down\\\":2,\\\"dec\\\":\\\"1.5\\\",\\\"american\\\":\\\"-200\\\",\\\"hongkong\\\":\\\"0.5\\\",\\\"malay\\\":\\\"0.5\\\",\\\"indonesian\\\":\\\"-2\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"UNKNOWN\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"YES\\\"},{\\\"id\\\":\\\"NO\\\",\\\"name\\\":\\\"No\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":31,\\\"down\\\":20,\\\"dec\\\":\\\"2.55\\\",\\\"american\\\":\\\"155\\\",\\\"hongkong\\\":\\\"1.55\\\",\\\"malay\\\":\\\"-0.646\\\",\\\"indonesian\\\":\\\"1.55\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"UNKNOWN\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"NO\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T19:00:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/marketlivedocl1/livedoc/425/ob2rod23/websocket",
+  "t": 1792583340.4121296,
+  "data": "a[\"MESSAGE\\ndestination:markets/U-429608862\\nsubscription:sub-9\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:11\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"id\\\":\\\"U-429608862\\\",\\\"sportId\\\":\\\"FBL\\\",\\\"eventId\\\":\\\"U-5436791\\\",\\\"name\\\":\\\"1X2\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradeStatus\\\":\\\"TRADABLE\\\",\\\"marketType\\\":{\\\"legType\\\":\\\"SIMPLE\\\"},\\\"betting\\\":{\\\"startTime\\\":null,\\\"endTime\\\":\\\"2026-10-21T16:45:00Z\\\"},\\\"taxonomy\\\":{\\\"type\\\":\\\"WINNER2D\\\",\\\"period\\\":\\\"FLGM\\\",\\\"scoreType\\\":\\\"GL\\\"},\\\"selections\\\":[[{\\\"id\\\":\\\"W2-1\\\",\\\"participantId\\\":\\\"U-92778\\\",\\\"name\\\":\\\"Lille OSC\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":5,\\\"down\\\":4,\\\"dec\\\":\\\"2.25\\\",\\\"american\\\":\\\"125\\\",\\\"hongkong\\\":\\\"1.25\\\",\\\"malay\\\":\\\"-0.8\\\",\\\"indonesian\\\":\\\"1.25\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"HOME\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"HOME\\\"},{\\\"id\\\":\\\"W2-D\\\",\\\"name\\\":\\\"Empate\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":13,\\\"down\\\":5,\\\"dec\\\":\\\"3.6\\\",\\\"american\\\":\\\"260\\\",\\\"hongkong\\\":\\\"2.6\\\",\\\"malay\\\":\\\"-0.385\\\",\\\"indonesian\\\":\\\"2.6\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"DRAW\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"DRAW\\\"},{\\\"id\\\":\\\"W2-2\\\",\\\"participantId\\\":\\\"U-139960\\\",\\\"name\\\":\\\"Galatasaray Istanbul\\\",\\\"status\\\":\\\"OFFERED\\\",\\\"tradestatus\\\":\\\"TRADABLE\\\",\\\"price\\\":{\\\"up\\\":2,\\\"down\\\":1,\\\"dec\\\":\\\"3\\\",\\\"american\\\":\\\"200\\\",\\\"hongkong\\\":\\\"2\\\",\\\"malay\\\":\\\"-0.5\\\",\\\"indonesian\\\":\\\"2\\\"},\\\"additionalPrice\\\":{\\\"up\\\":0,\\\"down\\\":0,\\\"dec\\\":\\\"0\\\"},\\\"side\\\":\\\"AWAY\\\",\\\"line\\\":0,\\\"pushHonored\\\":false,\\\"homeScore\\\":0,\\\"awayScore\\\":0,\\\"selTemplate\\\":\\\"AWAY\\\"}]],\\\"filterRange\\\":null,\\\"startTime\\\":\\\"2026-10-21T16:45:00Z\\\",\\\"eachway\\\":{\\\"isEachWay\\\":false,\\\"placeTerm\\\":0,\\\"placeReduction\\\":\\\"0\\\"}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5444846,
+  "data": "o"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5444846,
+  "data": "[\"CONNECT\\naccept-version:1.1,1.0\\nheart-beat:10000,10000\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.582471,
+  "data": "a[\"CONNECTED\\nversion:1.1\\nheart-beat:0,0\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5834637,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5834637,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-0\\ndestination:eventsignposting/U-5436803\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5834637,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-1\\ndestination:marketsignposting/U-429608988\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5844643,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-2\\ndestination:eventsignposting/U-5436771\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5844643,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-3\\ndestination:marketsignposting/U-429609091\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5844643,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-4\\ndestination:eventsignposting/U-5436769\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5844643,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-5\\ndestination:marketsignposting/U-429608839\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-6\\ndestination:eventsignposting/U-5436789\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-7\\ndestination:marketsignposting/U-429609381\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-8\\ndestination:eventsignposting/U-5436812\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-9\\ndestination:marketsignposting/U-429608964\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-10\\ndestination:eventsignposting/U-5436792\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-11\\ndestination:marketsignposting/U-429607453\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-12\\ndestination:eventsignposting/U-5436768\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-13\\ndestination:marketsignposting/U-429608932\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5854647,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-14\\ndestination:eventsignposting/U-5436779\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5864625,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-15\\ndestination:marketsignposting/U-429609394\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5864625,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-16\\ndestination:eventsignposting/U-5436791\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5864625,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-17\\ndestination:marketsignposting/U-429608862\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.5864625,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\ncontent-type:application/octet-stream\\nid:sub-18\\ndestination:marketsignposting/U-429607688\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6443994,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436803\\nsubscription:sub-0\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:1\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436803\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6464005,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429608988\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:2\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429608988\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6464005,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429609091\\nsubscription:sub-3\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:3\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429609091\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.647917,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436771\\nsubscription:sub-2\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:4\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436771\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6489346,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436769\\nsubscription:sub-4\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:5\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436769\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6499352,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429608839\\nsubscription:sub-5\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:6\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429608839\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.653011,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436789\\nsubscription:sub-6\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:7\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436789\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6563025,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436812\\nsubscription:sub-8\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:8\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436812\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.657227,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429609381\\nsubscription:sub-7\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:9\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429609381\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.658197,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429608964\\nsubscription:sub-9\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:10\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429608964\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.658197,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429607453\\nsubscription:sub-11\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:11\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429607453\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.658197,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436792\\nsubscription:sub-10\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:12\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436792\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.674533,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436768\\nsubscription:sub-12\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:13\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436768\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6755264,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436779\\nsubscription:sub-14\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:14\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436779\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6765876,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429608932\\nsubscription:sub-13\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:15\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429608932\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6765876,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429609394\\nsubscription:sub-15\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:16\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429609394\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6765876,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429608862\\nsubscription:sub-17\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:17\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429608862\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6765876,
+  "data": "a[\"MESSAGE\\ndestination:eventsignposting/U-5436791\\nsubscription:sub-16\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:18\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"eventId\\\":\\\"U-5436791\\\",\\\"bbEventFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"isAccaBoostApplied\\\":true,\\\"accaPromos\\\":null,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/signpostlivedoc/livedoc/073/ukcs2flo/websocket",
+  "t": 1792583340.6765876,
+  "data": "a[\"MESSAGE\\ndestination:marketsignposting/U-429607688\\nsubscription:sub-18\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:19\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"marketId\\\":\\\"U-429607688\\\",\\\"bbMarketFlag\\\":true,\\\"isAccaInsured\\\":false,\\\"accaPromos\\\":null,\\\"isAccaBoostApplied\\\":true,\\\"accaBoostPromos\\\":{\\\"1571\\\":[{\\\"iterationId\\\":1,\\\"segmentRules\\\":[\\\"ES_SPORT_ACCABOOST_BONUS_AUTOMATEDPROMOTION\\\"],\\\"segmentRulesInclusion\\\":true,\\\"eligibleEventStatus\\\":\\\"prematch\\\",\\\"channelIds\\\":null,\\\"isSpAllowed\\\":false}]},\\\"isSuperSub\\\":false}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventracinglivedocl1/livedoc/476/3v0oyloe/websocket",
+  "t": 1792583340.683221,
+  "data": "o"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventracinglivedocl1/livedoc/476/3v0oyloe/websocket",
+  "t": 1792583340.683221,
+  "data": "[\"CONNECT\\naccept-version:1.1,1.0\\nheart-beat:10000,10000\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventracinglivedocl1/livedoc/476/3v0oyloe/websocket",
+  "t": 1792583340.7206037,
+  "data": "a[\"CONNECTED\\nversion:1.1\\nheart-beat:0,0\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventracinglivedocl1/livedoc/476/3v0oyloe/websocket",
+  "t": 1792583340.7206037,
+  "data": "[\"SEND\\ndestination:\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "sent",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventracinglivedocl1/livedoc/476/3v0oyloe/websocket",
+  "t": 1792583340.7216082,
+  "data": "[\"SUBSCRIBE\\nX-Lang:es\\nsendEmpty:true\\nid:sub-0\\ndestination:racingeventcounts/sport\\n\\n\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventracinglivedocl1/livedoc/476/3v0oyloe/websocket",
+  "t": 1792583340.7614393,
+  "data": "a[\"MESSAGE\\ndestination:racingeventcounts/sport\\nsubscription:sub-0\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:1\\n\\n[{\\\"op\\\":\\\"add\\\",\\\"path\\\":\\\"\\\",\\\"value\\\":{\\\"total\\\":3261,\\\"totalLive\\\":0,\\\"totalUpcoming\\\":3261,\\\"totalOutright\\\":0,\\\"perSport\\\":{\\\"GHR\\\":{\\\"total\\\":1352,\\\"totalLive\\\":0,\\\"totalUpcoming\\\":1352,\\\"totalOutright\\\":0},\\\"HR\\\":{\\\"total\\\":1909,\\\"totalLive\\\":0,\\\"totalUpcoming\\\":1909,\\\"totalOutright\\\":0}}}}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583341.1016498,
+  "data": "a[\"MESSAGE\\ndestination:eventcounts/sport\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:12\\n\\n[{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/eFBL/totalUpcoming\\\",\\\"value\\\":92},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/eFBL/total\\\",\\\"value\\\":97},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/total\\\",\\\"value\\\":2898},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/totalUpcoming\\\",\\\"value\\\":2310}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583353.8023918,
+  "data": "a[\"MESSAGE\\ndestination:eventcounts/sport\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:13\\n\\n[{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/total\\\",\\\"value\\\":2899},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/totalLive\\\",\\\"value\\\":171},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/TNS/totalLive\\\",\\\"value\\\":70},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/TNS/total\\\",\\\"value\\\":330}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583356.4030504,
+  "data": "a[\"MESSAGE\\ndestination:eventcounts/sport\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:14\\n\\n[{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/totalLive\\\",\\\"value\\\":172},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/eFBL/total\\\",\\\"value\\\":98},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/eFBL/totalLive\\\",\\\"value\\\":6},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/total\\\",\\\"value\\\":2900}]\\u0000\"]"
+ },
+ {
+  "dir": "recv",
+  "url": "wss://sb-pp-esfe.daznbet.es/eventlivedocl1/livedoc/950/kz5nhq5n/websocket",
+  "t": 1792583358.4043581,
+  "data": "a[\"MESSAGE\\ndestination:eventcounts/sport\\nsubscription:sub-1\\ncontent-type:application/json-patch+json\\nis-compressed:false\\nmessage-id:15\\n\\n[{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/total\\\",\\\"value\\\":2901},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/totalLive\\\",\\\"value\\\":173},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/BAD/total\\\",\\\"value\\\":73},{\\\"op\\\":\\\"replace\\\",\\\"path\\\":\\\"/perSport/BAD/totalLive\\\",\\\"value\\\":7}]\\u0000\"]"
+ }
+]

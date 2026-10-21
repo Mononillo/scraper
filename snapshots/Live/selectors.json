@@ -1,0 +1,63 @@
+{
+  "_comment": "Config generada/reparada por Claude. Por target: 'api' (preferido, sin navegador) y 'dom' (fallback). Rutas JSON: 'a.b[].c' ('[]' expande listas, '[0]' indexa). La casa de apuestas (Pragmatic Play) vive en un iframe en sb-pp-esfe.daznbet.es; las cuotas llegan por WebSocket, por eso el modo preferido es 'tab' (pestaña abierta, lectura del DOM) salvo que exista endpoint REST.",
+  "version": 0,
+  "updated_at": null,
+  "targets": {
+    "prematch": {
+      "page_url": "https://sb-pp-esfe.daznbet.es/futbol?hideFooter=true&language=es",
+      "min_events": 3,
+      "api": {
+        "url": null,
+        "method": "GET",
+        "headers": {},
+        "body": null,
+        "referer": "https://sb-pp-esfe.daznbet.es/futbol?hideFooter=true&language=es",
+        "events_path": null,
+        "fields": {
+          "home": null,
+          "away": null,
+          "start_time": null,
+          "odds": null
+        }
+      },
+      "dom": {
+        "wait_selector": null,
+        "event": null,
+        "fields": {
+          "home": null,
+          "away": null,
+          "start_time": null,
+          "odds": null
+        }
+      }
+    },
+    "live": {
+      "page_url": "https://sb-pp-esfe.daznbet.es/en-directo?hideFooter=true&language=es",
+      "min_events": 1,
+      "api": {
+        "url": null,
+        "method": "GET",
+        "headers": {},
+        "body": null,
+        "referer": "https://sb-pp-esfe.daznbet.es/en-directo?hideFooter=true&language=es",
+        "events_path": null,
+        "fields": {
+          "home": null,
+          "away": null,
+          "score": null,
+          "odds": null
+        }
+      },
+      "dom": {
+        "wait_selector": null,
+        "event": null,
+        "fields": {
+          "home": null,
+          "away": null,
+          "score": null,
+          "odds": null
+        }
+      }
+    }
+  }
+}

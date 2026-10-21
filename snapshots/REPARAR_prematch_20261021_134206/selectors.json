@@ -1,0 +1,43 @@
+{
+  "_comment": "Config generada/reparada por Claude. Por target: 'api' (preferido, sin navegador) y 'dom' (fallback). Rutas JSON: 'a.b[].c' ('[]' expande listas, '[0]' indexa).",
+  "version": 0,
+  "updated_at": null,
+  "targets": {
+    "prematch": {
+      "page_url": "https://www.daznbet.es/es-es/deportes/futbol",
+      "min_events": 3,
+      "api": {
+        "url": null,
+        "method": "GET",
+        "headers": {},
+        "body": null,
+        "referer": "https://www.daznbet.es/es-es/deportes/futbol",
+        "events_path": null,
+        "fields": {"home": null, "away": null, "start_time": null, "odds": null}
+      },
+      "dom": {
+        "wait_selector": null,
+        "event": null,
+        "fields": {"home": null, "away": null, "start_time": null, "odds": null}
+      }
+    },
+    "live": {
+      "page_url": "https://www.daznbet.es/es-es/deportes/en-directo",
+      "min_events": 1,
+      "api": {
+        "url": null,
+        "method": "GET",
+        "headers": {},
+        "body": null,
+        "referer": "https://www.daznbet.es/es-es/deportes/en-directo",
+        "events_path": null,
+        "fields": {"home": null, "away": null, "score": null, "odds": null}
+      },
+      "dom": {
+        "wait_selector": null,
+        "event": null,
+        "fields": {"home": null, "away": null, "score": null, "odds": null}
+      }
+    }
+  }
+}
